@@ -15,4 +15,4 @@ El sistema permite:
 ## Cómo ejecutar
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/SistemaGestionEstudiantes-SGE.git
+   
